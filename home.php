@@ -37,8 +37,102 @@
 <!-- Header section end -->
     
 
+<!-- services section starts -->
+
+<section class="services">
+
+   <h1 class="heading-title">our services</h1>
+
+   <div class="box-container">
+    <div class="box">
+        <img src="image/icon1.png" alt="">
+        <h3>adventure</h3>
+
+    </div>
+    <div class="box">
+        <img src="image/icon1.png" alt="">
+        <h3>tour guide</h3>
+
+    </div>
+    <div class="box">
+        <img src="image/icon1.png" alt="">
+        <h3>trekking</h3>
+
+    </div>
+   </div>
+
+</section>
+
+<!-- services section ends -->
 
 
+
+
+
+
+
+
+
+<!-- Footer section starts -->
+
+
+
+<section class="footer">
+    <div class="box-container">
+        <div class="box">
+
+            <h3>quick links</h3>
+            <a href="home.php"> <i class="fas fa-angle-right"></i> home</a>
+            <a href="about.php"> <i class="fas fa-angle-right"></i> about</a>
+            <a href="package.php"> <i class="fas fa-angle-right"></i> package</a>
+            <a href="book.php"> <i class="fas fa-angle-right"></i> book</a>
+
+           
+            
+
+        </div>
+
+
+        <div class="box">
+
+            <h3>extra links</h3>
+            <a href="#"> <i class="fas fa-angle-right"></i> ask questions</a>
+            <a href="#"> <i class="fas fa-angle-right"></i> about us</a>
+            <a href="#"> <i class="fas fa-angle-right"></i> privacy policy</a>
+            <a href="#"> <i class="fas fa-angle-right"></i> terms of use</a>
+            
+           
+            
+
+        </div>
+        <div class="box">
+            <h3>contact info</h3>
+            <a href="#"> <i class="fas fa-phone"></i> + 33 631919119</a>
+            <a href="#"> <i class="fas fa-phone"></i> + 33 111333444</a>
+            <a href="#"> <i class="fas fa-envelope"></i> Agence@contact.com</a>
+            <a href="#"> <i class="fas fa-map"></i>Courbevoie, Hautes Seins FRANCE </a>
+           
+        </div>
+        <div class="box">
+            <h3>follow us</h3>
+            <a href="#"><i class="fab fa-facebook-f"></i>Facebook</a>
+            <a href="#"><i class="fab fa-twitter"></i>Twitter</a>
+            <a href="#"><i class="fab fa-instagram"></i>Instagram</a>
+            <a href="#"><i class="fab fa-linkedin"></i>Linkedin</a>
+        </div>    
+     </div>
+
+     <div class="credit">created by <span>mr. web designer</span>© 2021 Copyright  | all rights reserved! </div>
+
+
+
+</section>
+
+
+
+
+
+<!-- Footer section ends -->
 
 
 
