@@ -38,12 +38,62 @@
     
 
 
-<div class="heading" style="background:url(image/pic-book) no-repeat">
+<div class="heading" style="background:url(image/eiffel-tower.jpg) no-repeat">
     <h1>Book </h1>
 </div>
     
 
+<!-- booking section starts -->
 
+<section class="booking">
+    <h1 class="heading-title">book your trip</h1>
+
+    <form action="book_form.php" methot="post" class="book-form">
+
+
+        <div class="flex">
+            <div class="inputBox">
+                <span>name :</span>
+                <input type="text" placeholder="enter your name" name="name">
+            </div>
+            <div class="inputBox">
+                <span>email :</span>
+                <input type="email" placeholder="enter your email" name="email">
+            </div>
+            <div class="inputBox">
+                <span>phone :</span>
+                <input type="number" placeholder="enter your number" name="phone">
+            </div>
+            <div class="inputBox">
+                <span>adress :</span>
+                <input type="text" placeholder="enter your adresse" name="adress">
+            </div>
+            <div class="inputBox">
+                <span>where to :</span>
+                <input type="text" placeholder="place you want to visit" name="location">
+            </div>
+            <div class="inputBox">
+                <span>how many :</span>
+                <input type="number" placeholder="number of guests" name="guests">
+            </div>
+            <div class="inputBox">
+                <span>arrivals :</span>
+                <input type="date"  name="arrivals">
+            </div>
+            <div class="inputBox">
+                <span>leaving :</span>
+                <input type="date" name="leaving">
+            </div>
+        </div>  
+
+        <input type="submit" value="submit" class="btn" name="send" >
+
+
+    </form>
+
+</section>
+
+<!-- booking section ends -->
 
 
 

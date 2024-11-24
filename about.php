@@ -40,11 +40,141 @@
     <h1>About As</h1>
 </div>
     
+<!-- about section starts -->
+
+<section class="about">
+    <div class="image">
+        <img src="image/about.webp" alt="">
+    </div>
+    <div class="content">
+        <h3>why choose us?</h3>
+        <p> Ainsi, mon père qui a un emploi très prenant et fatiguant nerveusement aime la vie à la campagne. Quand il se retrouve au volant de notre voiture et traverse les champs de bruyère en fleur, il respire et s'apaise,
+             heureux de retrouver la quiétude de notre hameau paisibl</p>
+        <p> Ainsi, mon père qui a un emploi très prenant et fatiguant nerveusement aime la vie à la campagne. Quand il se retrouve au volant de notre voiture et traverse les champs de bruyère en fleur, il respire et s'apaise,
+             heureux de retrouver la quiétude de notre hameau paisibl</p> 
+        <div class="icons-container">
+            <div class="icons">
+                <i class="fas fa-map" ></i>
+                <span>Top destinations</span>
+            </div>
+            <div class="icons">
+                <i class="fas fa-hand-holding-usd" ></i>
+                <span>affordable price</span>
+            </div>
+            <div class="icons">
+                <i class="fas fa-headset" ></i>
+                <span>24/7 guide service</span>
+            </div>
+        </div>         
+    </div>
+</section>
+
+<!-- about section ends -->
 
 
 
+<!--  reviews section starts  -->
+
+<section class="reviews">
 
 
+
+   <div class="swiper reviews-slider">
+    <div class="swiper-wrapper">
+        <div class="swiper-slider slide">
+            <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+            </div>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, saepe.
+             Repellat officiis placeat cum, nostrum officia ullam eos exercitationem voluptatum explicabo reiciendis molestiae facilis. Beatae possimus autem animi quae incidunt.</p>
+             <h3>John deo</h3>
+             <span>traveler</span>
+             <img src="image/testimonial-1.jpg" alt="">
+        </div>
+
+        <div class="swiper-slider slide">
+            <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+            </div>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, saepe.
+             Repellat officiis placeat cum, nostrum officia ullam eos exercitationem voluptatum explicabo reiciendis molestiae facilis. Beatae possimus autem animi quae incidunt.</p>
+             <h3>John deo</h3>
+             <span>traveler</span>
+             <img src="image/testimonial-2.jpg" alt="">
+        </div>
+
+        <div class="swiper-slider slide">
+            <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+            </div>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, saepe.
+             Repellat officiis placeat cum, nostrum officia ullam eos exercitationem voluptatum explicabo reiciendis molestiae facilis. Beatae possimus autem animi quae incidunt.</p>
+             <h3>John deo</h3>
+             <span>traveler</span>
+             <img src="image/testimonial-3.jpg" alt="">
+        </div>
+
+        <div class="swiper-slider slide">
+            <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+            </div>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, saepe.
+             Repellat officiis placeat cum, nostrum officia ullam eos exercitationem voluptatum explicabo reiciendis molestiae facilis. Beatae possimus autem animi quae incidunt.</p>
+             <h3>John deo</h3>
+             <span>traveler</span>
+             <img src="image/client5.png" alt="">
+        </div>
+
+
+        <div class="swiper-slider slide">
+            <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+            </div>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non, saepe.
+             Repellat officiis placeat cum, nostrum officia ullam eos exercitationem voluptatum explicabo reiciendis molestiae facilis. Beatae possimus autem animi quae incidunt.</p>
+             <h3>John deo</h3>
+             <span>traveler</span>
+             <img src="image/client4.png" alt="">
+        </div>
+
+        <div class="swiper-slider slide">
+            <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+            </div>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta vel, alias corrupti quae officiis quia ipsam ullam! Animi cumque,
+                 aperiam, soluta saepe deserunt consequatur maxime doloribus accusamus necessitatibus ad neque voluptates quae nam earum molestias id obcaecati quam placeat et.</p>
+             <h3>John deo</h3>
+             <span>traveler</span>
+             <img src="image/client6.png" alt="">
+        </div>
+
+
+    </div>
+   </div>
+
+</section>
+
+
+<!--  reviews section starts  -->
 
 
 
